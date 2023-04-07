@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnabmukherjee03&label=Profile%20views&color=0e75b6&style=flat" alt="arnabmukherjee03" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **arnabmukherjee58260@gmail.com**
 
